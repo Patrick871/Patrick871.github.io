@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Patrick's First Page
 
-You can use the [editor on GitHub](https://github.com/Patrick871/Patrick871.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [editor on GitHub](https://github.com/Patrick871/Patrick871.github.io/edit/master/index.md) 
+ 
+ 
+This my first time to create a website, for the robotics team needs one website to let others know our existence. 
 
 ### Markdown
 
