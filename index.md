@@ -1,10 +1,21 @@
 ## Welcome to Patrick's First Page
 
  [editor on GitHub](https://github.com/Patrick871/Patrick871.github.io/edit/master/index.md) 
- 
- 
 This my first time to create a website, for the robotics team needs one website to let others know our existence. 
 
+# I'm in CowTech First Robotics Team
+
+I've been in this robotics team since 2018 December, and I am a highschool senior now. I enjoy the process of making robot; moreover, it is insanely fun with teammates who passionate for the same thing. 
+
+### This is what we are working on...
+
+- Recruitment
+- Research Project
+- Documentaion
+- CowTech Website
+- Maybe Podcast - COWCAST
+- DEMOS at the farmers market
+- T-shirt Catapult
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
